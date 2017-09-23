@@ -1,6 +1,6 @@
 {
     "name": "i18n-tracker-helper",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Helper module for i18n-tracker: for local storage",
     "main": "index.js",
     "license": "MIT",
